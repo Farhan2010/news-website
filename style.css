@@ -1,0 +1,11 @@
+.whole-body{
+    background-image: url("star background.jpg");
+    color: aquamarine;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.categories{
+    margin-top:150px;
+}
