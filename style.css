@@ -5,7 +5,31 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
+.cat-body{
+    background-image: url("star background.jpg");
+}
 
 .categories{
     margin-top:150px;
+}
+.newsbody{
+    background-color: aquamarine;
+text-align: center;
+}
+.tophead{
+    padding:10px; 
+    background-color: chartreuse;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.newscard{
+    width: 250px;
+    height: 400px;
+    background-color:gray;
+    margin: 10px;
+    overflow: auto;
+    text-align: justify;
+    padding: 10px;
+    display:inline-block;
 }
